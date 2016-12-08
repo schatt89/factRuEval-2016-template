@@ -15,6 +15,11 @@ TAuxDicArticle "org_descr"
     key = { "dicts/org_descr.txt" type=FILE }
 }
 
+TAuxDicArticle "org_head"
+{
+    key = { "dicts/org_head.txt" type=FILE }
+}
+
 TAuxDicArticle "algfio"
 {
     key = { "alg:fio" type=CUSTOM }
